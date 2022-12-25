@@ -94,9 +94,8 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name> google webap-release nexus repo </name>
-	      <url><http://3.236.242.122:8081/bush/repository/google-webapp-release/</url>
-	    </repository>
+		    <name> google webap-release nexus repo </name>
+              <url>http://172.31.66.75:8081/bush/repository/google-webapp-release/</url>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
